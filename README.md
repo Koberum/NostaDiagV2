@@ -95,18 +95,6 @@ For detailed setup including hardware wiring, driver installation, and first-lau
 
 ---
 
-## SC Type — Which one do I pick?
-
-| SC Type | Console | Fan Control |
-|---------|---------|-------------|
-| CXR | FAT — older Syscon (COK-001) | No |
-| CXRF | FAT — Mullion Syscon | Yes |
-| SW | Slim / Super Slim | No |
-
-Fan curve editing is only available in **CXRF** mode.
-
----
-
 ## Safety Features
 
 - **Auth gate** — patching operations are locked until Syscon authentication succeeds
