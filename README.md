@@ -3,7 +3,7 @@
 > A modern diagnostic and repair tool for PS3 Syscon operations — built by NostaMods.
 
 [![License](https://img.shields.io/badge/license-NostaDiag%20v1.0-blue.svg)](LICENSE.txt)
-[![Version](https://img.shields.io/badge/version-2.0-green.svg)]()
+[![Version](https://img.shields.io/badge/version-Engineering%20Preview-orange.svg)]()
 [![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-lightgrey.svg)]()
 
 ![NostaDiag V2.0](gh_assets/main.png)
@@ -116,3 +116,7 @@ Commercial use requires visible credit. Do not rebrand or remove credits.
 - Issues: [GitHub Issues](../../issues)
 
 > Use your brain before your click.
+
+---
+
+*V2 built with [Claude Code](https://claude.ai/code)*
