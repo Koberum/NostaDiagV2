@@ -1,6 +1,6 @@
 # NostaDiag V2.0
 
-> A modern diagnostic and repair tool for PS3 Syscon operations — built by NostaMods.
+> A modern diagnostic and repair tool for PS3 Syscon operations built by NostaMods.
 
 [![License](https://img.shields.io/badge/license-NostaDiag%20v1.0-blue.svg)](LICENSE.txt)
 [![Version](https://img.shields.io/badge/version-Engineering%20Preview-orange.svg)]()
